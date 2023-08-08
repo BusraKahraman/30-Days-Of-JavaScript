@@ -1,0 +1,21 @@
+body {
+  background-color: #1a1a1a;
+}
+
+h1,
+h2,
+h3,
+p {
+  color: #ffffff;
+}
+
+.button,
+.link {
+  background-color: #6a1b9a;
+  color: #ffffff;
+}
+
+.success {
+  background-color: #00c853;
+  color: #ffffff;
+}

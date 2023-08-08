@@ -1,5 +1,3 @@
-My solutions for the 30 Days of JavaScript Challange.
-
 # 30 Days of JavaScript Challenge
 
 Welcome to my 30 Days of JavaScript Challenge repository! This repository contains my solutions and progress for the 30 Days of JavaScript challenge.

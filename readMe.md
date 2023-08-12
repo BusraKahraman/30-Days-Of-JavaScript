@@ -13,7 +13,7 @@ I'll be updating this README with my progress as I complete each day's challenge
 &#x2714; [Day 5: Arrays](05_Day_Arrays)\
 &#x2714; [Day 6: Loops](06_Day_Loops)\
 &#x2714; [Day 7: Functions](07_Day_Functions)\
-&#x2717; [Day 8: Objects](08_Day_Objects)\
+&#x2714; [Day 8: Objects](08_Day_Objects)\
 &#x2717; [Day 9: Higher order functions](09_Day_Higher_order_functions)\
 &#x2717; [Day 10: Sets and Maps](10_Day_Sets_and_Maps)\
 &#x2717; [Day 11: Destructuring and spreading](11_Day_Destructuring_and_spreading)\
